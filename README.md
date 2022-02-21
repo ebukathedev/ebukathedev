@@ -2,7 +2,7 @@
 
 <!--
 **ebukathedev/ebukathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 - 👋 Hi, I’m @ebukathedev
 - 🌱 I’m currently learning Frontend Development
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ebukathedev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like swimming
--->
