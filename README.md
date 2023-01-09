@@ -10,7 +10,7 @@ I started learning to coding on March 2022 and I have been documenting my progre
 * 🖥️  See my portfolio at [My portfolio](http://ebukathedev.netlify.app)
 * ✉️  You can contact me at [ebukathedev@gmail.com](mailto:ebukathedev@gmail.com )
 * 🚀  I'm currently working on [My portfolio built with React](http://ebukathedev.netlify.app)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love watching movies and reading books about adventure and fantasy.
 
