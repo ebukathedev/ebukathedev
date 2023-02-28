@@ -7,9 +7,7 @@ Frontend web developer
 I started learning to coding on March 2022 and I have been documenting my progress on twitter. I've understood the fundamentals of JavaScript well enough and now I'm focusing on building cooler, more advanced projects.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My portfolio](http://ebukathedev.netlify.app)
 * ✉️  You can contact me at [ebukathedev@gmail.com](mailto:ebukathedev@gmail.com )
-* 🚀  I'm currently working on [My portfolio built with React](http://ebukathedev.netlify.app)
 * 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love watching movies and reading books about adventure and fantasy.
