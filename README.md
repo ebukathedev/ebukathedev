@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend web developer
 ----------------------
 
-I started learning to coding on March 2022 and I have been documenting my progress on twitter. I've understood the fundamentals of JavaScript well enough and now I'm focusing on building cooler, more advanced projects.
+I started learning to code on March 2022 and I have been documenting my progress on twitter. I've understood the fundamentals of JavaScript well enough and now I'm focusing on building cooler, more advanced projects.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ebukathedev@gmail.com](mailto:ebukathedev@gmail.com )
