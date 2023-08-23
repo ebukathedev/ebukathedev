@@ -31,7 +31,7 @@
 
 ## **My Github Stats :**
 <p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ebukathedev&show_icons=true&theme=dark" />
+  <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebukathedev&show_icons=true&theme=dark" />
 
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ebukathedev&layout=compact&langs_count=10&theme=dark"/>
 </p>
