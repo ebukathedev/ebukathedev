@@ -2,7 +2,7 @@
 
 # 👋🏽 Hello World, I'm Ebuka
 
-I'm a **Frontend Engineer** on a mission to level up my skills, build real-world products, and transition into a **remote software role by December 2025**.
+I'm a **Frontend Engineer** on a mission to level up my skills, and build real-world products.
 
 - 🧠 Currently focused on mastering **React**, **TypeScript**, and **Next.js**
 - 🚀 Building in public — documenting my growth, wins, and struggles
